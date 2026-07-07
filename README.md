@@ -26,7 +26,10 @@ A Python-based financial underwriting model for evaluating a duplex acquisition 
 ## How to Run
 ```bash
 python orlando_duplex_underwriting.py
+```
+
 ## Sample Output
+```
 =============================================
 ORLANDO DUPLEX UNDERWRITING SUMMARY
 Purchase Price: $ 185,000
@@ -44,3 +47,5 @@ Annual Cash Flow: $ 5,742
 Cap Rate: 9.24%
 Cash-on-Cash Return: 12.41%
 DSCR: 1.51x
+```
+
