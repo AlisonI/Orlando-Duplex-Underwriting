@@ -49,3 +49,20 @@ Cash-on-Cash Return: 12.41%
 DSCR: 1.51x
 ```
 
+## Analysis Summary
+
+This duplex appears to be a strong cash-flow investment based on the assumptions used. The property generates a 9.24% cap rate, indicating an above-average yield compared with many residential investment properties. With a DSCR of 1.51x, the net operating income comfortably covers the annual mortgage payments. The projected 12.41% cash-on-cash return means the investor earns approximately 12 cents annually for every dollar invested as a down payment, before taxes and appreciation.
+
+## Pros
+
+- Strong cash-on-cash return (12.4%)
+- High DSCR (1.51x) provides a comfortable debt cushion
+- Positive annual cash flow of approximately $5,742
+- Cap rate above 9% suggests attractive income relative to purchase price
+
+## Things to Verify
+
+- Rental assumptions reflect current market rents
+- Operating expenses (taxes, insurance, maintenance, vacancy) are realistic
+- Capital expenditures (roof, HVAC, plumbing) are accounted for separately
+- Neighborhood fundamentals and long-term appreciation potential
